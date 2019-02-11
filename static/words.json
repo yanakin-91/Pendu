@@ -1,0 +1,83 @@
+{
+	"Developpeur Web" : 
+	[
+		"javascript",
+		"serveur",
+		"boolean",
+		"string",
+		"integer",
+		"number",
+		"framework",
+		"symfony",
+		"responsive",
+		"bootstrap",
+		"nodejs",
+		"react",
+		"angularjs",
+		"undefined"
+	],
+	"Super Heros" : 
+	[
+		"spider-man",
+		"batman",
+		"gotham city",
+		"superman",
+		"bruce wayne",
+		"metropolis",
+		"harley quinn",
+		"aquaman",
+		"iron-man",
+		"the avengers",
+		"thanos",
+		"thor",
+		"bruce banner",
+		"hulk",
+		"miss marvel",
+		"wolverine"
+	],
+	"Jeux Video" : 
+	[
+		"super mario bros", 
+		"nintendo", 
+		"the legend of zelda",
+		"playstation",
+		"pro evolution soccer",
+		"red dead redemption",
+		"uncharted",
+		"minecraft",
+		"console",
+		"manette",
+		"xbox one",
+		"space invaders"
+	],
+	"Football" : 
+	[
+		"ronaldo", 
+		"paris saint-germain",
+		"olympique de marseille",
+		"olympique lyonnais",
+		"ballon d'or",
+		"ligue des champions",
+		"coupe du monde",
+		"equipe de france",
+		"kylian m'bappe",
+		"real madrid",
+		"fc barcelone",
+		"manchester city",
+		"manchester united",
+		"juventus de turin",
+		"parc des princes",
+		"stade de france",
+		"europa league",
+		"neymar jr",
+		"paul pogba",
+		"hugo lloris",
+		"luka modric",
+		"bayer munich",
+		"liverpool",
+		"chelsea",
+		"arsenal",
+		"boca juniors",
+		"river plate"
+	]
+}
